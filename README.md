@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/Jxpro/damai-tickets.svg)](https://starchart.cc/Jxpro/damai-tickets)
