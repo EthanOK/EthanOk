@@ -12,7 +12,7 @@
 <br><br>
 - 🔭 I'm currently researching the `Security` of Smart Contracts.
 <br><br>
-- 🌱 I’m currently learning Solidity, Java, JavaScript, Go and Rust, etc.
+- 🌱 I’m currently learning Solidity, Java, JavaScript, Go, Move and Rust, etc.
 <br><br>
 
 [![Stargazers over time](https://starchart.cc/Jxpro/damai-tickets.svg) ](https://starchart.cc/Jxpro/damai-tickets)
