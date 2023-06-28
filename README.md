@@ -9,6 +9,7 @@
 
 
 
+- :orange_book: I’m focusing on Solidity & ethersjs & Hardhat.
 
 - 🔭 I'm currently researching the `Security` of Smart Contracts.
 
