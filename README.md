@@ -15,9 +15,9 @@
 
 - 🌱 I’m currently learning Solidity, Java, JavaScript, Go, Move and Rust, etc.
 
-
+<!--
 [![Stargazers over time](https://starchart.cc/Jxpro/damai-tickets.svg) ](https://starchart.cc/Jxpro/damai-tickets)
-
+-->
 
 <!--
 **EthanOK/EthanOk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
