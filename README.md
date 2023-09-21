@@ -7,10 +7,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanOK&layout=compact&langs_count=6)
 
 
-- :orange_book: I’m focusing on Solidity & ethers.js & Hardhat.
+- :orange_book: I’m focusing on Solidity & ethers.js & Hardhat & Foundry & web3j.
 
 
-- 🔭 I'm currently researching the `Security` of Smart Contracts.
+- 🔭 I'm currently researching the `Security` and `Gas Optimization` of Smart Contracts.
 
 
 - 🌱 I’m currently learning Solidity, Java, JavaScript, Go, Move and Rust, etc.
