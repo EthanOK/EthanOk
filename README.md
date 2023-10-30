@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning Solidity, Java, JavaScript, Go, Move and Rust, etc.
 
-- 📫 Projects I have participated in: GameFi, NFT Aggregate Marketplace, NFT Stake, LP Stake.
+- 📫 Projects I have participated in: GameFi, NFT Aggregate Marketplace, NFT Stake, LP Stake, Cross-chain Bridge.
 
 <!--
 [![Stargazers over time](https://starchart.cc/Jxpro/damai-tickets.svg) ](https://starchart.cc/Jxpro/damai-tickets)
