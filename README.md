@@ -1,7 +1,7 @@
 <h2 align="center">Hi <img src="https://cdn.jsdelivr.net/gh/dmego/images/img/Hi.gif" height="32" />, I'm Ethan. 👋 <img src="https://komarev.com/ghpvc/?username=EthanOK&label=Visits" alt="artdong" />
 </h2>
  
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=EthanOK&show_icons=true&icon_color=CE1D2D&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=EthanOK&show_icons=true&icon_color=CE1D2D" />
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanOK&layout=compact&langs_count=10)
