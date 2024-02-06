@@ -4,7 +4,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=EthanOK&show_icons=true&icon_color=CE1D2D&hide_title=true" />
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanOK&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanOK&layout=compact&langs_count=10)
 
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EthanOK)
 
