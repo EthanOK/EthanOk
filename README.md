@@ -14,6 +14,7 @@
 
 - 🔭 I'm currently researching the `Security` and `Gas Optimization` of Smart Contracts.
 
+- 🔦 I'm currently using Phalcon and Tenderly to simulate and debug transactions.
 
 - 🌱 I’m currently learning Solidity, Java, JavaScript, Go, Move and Rust, etc.
 
