@@ -1,13 +1,19 @@
 <h2 align="center">Hi <img src="https://cdn.jsdelivr.net/gh/dmego/images/img/Hi.gif" height="32" />, I'm Ethan. 👋 <img src="https://komarev.com/ghpvc/?username=EthanOK&label=Visits" alt="artdong" />
 </h2>
  
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=EthanOK&show_icons=true&icon_color=CE1D2D" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanOK&layout=compact&langs_count=8&theme=radical&hide=css,html" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EthanOK&show_icons=true&icon_color=CE1D2D&theme=radical" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanOK&layout=compact&langs_count=8)
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=EthanOK&limit=5&combine_all_yearly_contributions=true&theme=radical" />
+</p>
 
-![Top Langs](https://github-contributor-stats.vercel.app/api?username=EthanOK&limit=5&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EthanOK&theme=2077" />
+</p>
 
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EthanOK)
 
 - :orange_book: I’m focusing on Solidity & ethers.js & Hardhat & Foundry & web3j.
 
