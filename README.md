@@ -46,4 +46,7 @@ Here are some ideas to get you started:
 -->
 
 
+### 😤 Contribution Snake
+![TOG](https://raw.githubusercontent.com/EthanOk/EthanOk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![TOG](https://raw.githubusercontent.com/EthanOk/EthanOk/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
