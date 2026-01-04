@@ -2,8 +2,8 @@
 </h2>
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanOK&layout=compact&langs_count=8&theme=radical&hide=css,html&exclude_repo=SolidityDetection" />
-  <img src="https://github-readme-stats.vercel.app/api?username=EthanOK&show_icons=true&icon_color=CE1D2D&theme=radical" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=EthanOK&layout=compact&langs_count=8&theme=radical&hide=css,html&exclude_repo=SolidityDetection" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=EthanOK&show_icons=true&icon_color=CE1D2D&theme=radical" />
 </p>
 
 <p align="center">
