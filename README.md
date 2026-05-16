@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=EthanOK&limit=5&combine_all_yearly_contributions=true&theme=radical" />
+  <img src="https://github-contribution-card.vercel.app/api?username=EthanOK&limit=5&combine_all_yearly_contributions=true&theme=radical" />
 </p>
 
 <p align="center">
